@@ -13,7 +13,7 @@ dependencies used - spring-jpa, spring-web, spring-security, io.jsonwebtoken, my
 
 ## Local environment
 
-In order to run the Integration tests a Postgres database is required.
+TBC
 
 ### Running service for the first time
 In order to force the download of dependencies outside of IntelliJ:
